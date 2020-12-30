@@ -1,5 +1,6 @@
-# rate-exchange-prediction
+# Rate-exchange-prediction
 Through a dataset consisting in the daily exchange rate of the foreign exchange, I'm going to find the model who best adecuate in order to get predictions
+
 
 # Objective
 
@@ -7,9 +8,11 @@ Through a dataset consisting in the daily exchange rate of the foreign exchange,
 
 - Study the stationarity and time series decomposing
 
-- Building Models using autoarima
+- Building Models using autoarima and prophet
 
 - graph the outgoing data
+
+- See volatility
 
 
 # Requirements
